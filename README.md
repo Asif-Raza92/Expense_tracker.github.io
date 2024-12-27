@@ -2,6 +2,8 @@
   SUPPORT ME
 This Expense Tracker is a simple web application that allows users to manage their expenses by adding, categorizing, filtering, and clearing transactions. It calculates the total amount spent and provides a clear overview of all expenses.
 
+Disclaimer : This project is made with the help of Tutorial and I add some features and changed its User interface also take help of Ai to solve only error in projects.
+
 Features
 
 Add Transactions: Enter expense name, amount, date, and category.
